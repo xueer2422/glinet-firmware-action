@@ -9,7 +9,7 @@ packages:
   - luci-app-passwall
   - luci-app-ttyd
   - luci-app-opkg
-  - luci-app-aria2
+  - luci-app-alist
 
 
 
